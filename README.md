@@ -1,4 +1,4 @@
-# app-theme
+# duck-duck-clone
 
  This projectis an accessible & responsive clone of the DuckDuckGo home page.
  It is done on writing accessible HTML including correct Semantic HTML and ARIA. 
