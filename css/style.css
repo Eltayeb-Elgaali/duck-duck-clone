@@ -1,0 +1,21 @@
+.privacy{
+    background-color: #008ae6;
+
+}
+.privacy h1{
+   margin: 0;
+   padding-top: 50px;
+}
+.monster-img {
+    padding: 10vh;
+    background-color: #008ae6;
+    background-image: linear-gradient(#008ae6,#ccff66)
+
+}
+.info-third {
+    background-color: #ccff66;
+    margin: 0;
+    padding-top: 50px;
+    text-align: center;
+   
+}
