@@ -96,6 +96,10 @@
         background-color: #fff;
         color: #222;
         padding: 12px;
+        opacity: 0;
+    }
+    
+    .social-media-panel.open {
         opacity: 1;
     }
     
