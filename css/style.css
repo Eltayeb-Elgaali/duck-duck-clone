@@ -28,13 +28,58 @@
     }
     /*Navigation Buttons*/
     
-    nav .nav-button {
+    .nav-button {
         border: none;
         background-color: transparent;
         margin-left: 20px;
     }
     
-    nav .fas {
+    .nav-button .fas {
         font-size: 18px;
-        color: #808080;
+        color: #a5a5a5;
     }
+    
+    .panel-close-button {
+        position: absolute;
+        top: 25px;
+        right: 25px;
+    }
+    /*Navigation Menu Items*/
+    
+    .nav-menu-panel {
+        height: 100vh;
+        width: 200px;
+        position: fixed;
+        top: 0px;
+        right: 0px;
+        border-left: 1px solid #888;
+        background-color: #fff;
+        z-index: 100;
+        padding: 0 10px 15px 20px;
+    }
+    
+    ul.nav-menu-group {
+        list-style: none;
+        padding: 0;
+        margin: 25px 0;
+    }
+    
+    ul.nav-menu-group li {
+        display: block;
+        margin: 10px 0;
+        font-size: 13px;
+    }
+    
+    ul.nav-menu-group li a {
+        text-decoration: none;
+        color: #333333;
+    }
+    
+    ul.nav-menu-group span {
+        text-transform: uppercase;
+        color: #888888;
+        font-size: 10.8px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    /*Social Menu Items*/
