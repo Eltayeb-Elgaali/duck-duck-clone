@@ -60,6 +60,10 @@
         transform: translateX(100%);
     }
     
+    .nav-menu-panel.visible {
+        transform: translateX(0);
+    }
+    
     ul.nav-menu-group {
         list-style: none;
         padding: 0;
