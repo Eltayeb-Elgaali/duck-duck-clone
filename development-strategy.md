@@ -83,15 +83,32 @@ __As a site visitor, I want to know what features are available in the website._
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been achieved through a branch called features-section.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add section element which contain some div's, h4, and some images.
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling layout for the section features and its inner contents.
+
+## 4.1 Responsive Services and Features
+
+__As as a webdeveloper and member team, I want to set a well good enough layout and responsive for the Services & Features sections .__
+> assigned to Eltayeb
+
+### Repo
+
+This user story has been achieved through a branch called responsive-services-features.
+
+### HTML
+
+No HTML added .
+
+### CSS
+
+Add media query for services and features sections.
 
 ## 5. Overview and info
 
