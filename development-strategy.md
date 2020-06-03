@@ -66,15 +66,15 @@ __As a site visitor, I need an overview about what services and technologies are
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been achieved through a branch called services-section.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add section element which contain some div's, one ordered list, some paragraph and anchors. 
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling layout for the section services and its inner contain.
 
 ## 4. Features
 
