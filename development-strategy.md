@@ -83,15 +83,15 @@ __As a site visitor, I want to know what features are available in the website._
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been achieved through a branch called features-section.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add section element which contain some div's, h4, and some images.
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling layout for the section features and its inner contents.
 
 ## 5. Overview and info
 
