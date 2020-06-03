@@ -2,14 +2,127 @@
 <html lang="en">
 
 <head>
-  <title></title>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="./css/style.css">
-  <!-- Leave this here!  It renders the review buttons  -->
-  <script src='./evaluation/init.js'></script>
+    <title>Duckduckgo-Clone</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1" />
+    <meta name="HandheldFriendly" content="true" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
+
+
+    <!--<link rel="stylesheet" href="./css/all.css">-->
+
+    <link rel="stylesheet" href="./css/style.css">
+
+    <!-- Leave this here!  It renders the review buttons  -->
+    <script src='./evaluation/init.js'></script>
 </head>
 
 <body>
+    <!--Header Area-->
+
+    <header>
+
+        <!--Navigation Buttons-->
+
+        <nav class="nav-wrapper">
+            <button id="social-media-btn" class="nav-button">
+              <i class="fas fa-bullhorn"></i>
+              <i class="fas fa-chevron-down"></i>
+            </button>
+
+            <button id="nav-panel-open" class="nav-button">
+                <i class="fas fa-bars"></i>
+            </button>
+            <!--Social Media Accounts-->
+
+            <div id="social-media-menu" class="social-media-panel">
+
+                <div class="social-links">
+                    <a href="#"><img src="./images/twitter.svg" alt="twitter icon">
+                        <Span>Twitter</Span>
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="#"><img src="./images/reddit.svg" alt="reddit icon">
+                        <Span>Reddit</Span>
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="#"><img src="./images/blog.svg" alt="blog">
+                        <Span>Blog</Span>
+                    </a>
+                </div>
+                <div class="social-links">
+                    <a href="#"><img src="./images/newsletter.svg" alt="newsletter icon">
+                        <Span>Newsletter</Span>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+
+    <!--Navigation Menu Items-->
+
+    <div id="nav-menu-panel" class="nav-menu-panel">
+        <button id="nav-menu-close" class="nav-button panel-close-button"><i class="fas fa-times"></i></button>
+        <ul class="nav-menu-group">
+            <li>
+                <span>Settings</span>
+            </li>
+            <li><a href="#">Themes</a></li>
+            <li><a href="#">Other Settings</a></li>
+            <li>
+                <a href="#">!Bang Search Shortcuts</a>
+            </li>
+        </ul>
+        <ul class="nav-menu-group">
+            <li>
+                <span>Privacy Essentials</span>
+            </li>
+            <li><a href="#">Private Search</a></li>
+            <li><a href="#">App and Extention</a></li>
+        </ul>
+        <ul class="nav-menu-group">
+            <li>
+                <span>Why Privacy</span>
+            </li>
+            <li><a href="#">Privacy Blog</a></li>
+            <li><a href="#">Privacy Crash Course</a></li>
+            <li><a href="#">Help Speed Privacy</a></li>
+
+        </ul>
+        <ul class="nav-menu-group">
+            <li> <span>Who We Are</span> </li>
+            <li><a href="#">About Us</a></li>
+            <li>
+                <a href="#">Privacy Policy</a>
+            </li>
+            <li><a href="#">Careers</a></li>
+            <li>
+                <a href="#">Press Kit</a>
+            </li>
+        </ul>
+        <ul class="nav-menu-group">
+            <li> <span>Keep In Touch</span> </li>
+            <li>
+                <a href="#">Twitter</a>
+            </li>
+            <li><a href="#">Store</a></li>
+            <li><a href="#">Reddit</a></li>
+            <li><a href="#">Help</a></li>
+        </ul>
+    </div>
+
+
+
+
+
+
+    <script src="./script.js"></script>
 </body>
 
 </html>
