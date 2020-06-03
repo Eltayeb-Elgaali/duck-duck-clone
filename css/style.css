@@ -34,8 +34,9 @@
 .button {
     display: flex;
     text-align: center;
-    margin: 0;
-    padding-top: 5px;
-    position: absolute;
+    margin: 0px;
+    padding-top: 10px;
+    width: 15%;
+    margin-left: 42%;
    background-color: blue;
 }
