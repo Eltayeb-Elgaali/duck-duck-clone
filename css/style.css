@@ -138,7 +138,7 @@
     /***************************
      Layout Services section  @T
     ****************************/
-    /* containers */
+    /* Containers */
 
 .container {  
    max-width: 60%;
@@ -188,7 +188,7 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
-
+  /* Icons */
 i.icon{
     color: #678FFF;
     margin-right: 0.5em;
@@ -205,6 +205,8 @@ i.icon{
     font-family: Arial, Helvetica, sans-serif;
    
 }
+
+  /* Rating stars */
 .link{
     text-align: center;
 
