@@ -9,3 +9,22 @@
            width: 100%;
            margin: 0;
        }
+       /* Search Field Section */
+       
+       section.search-field {
+           width: 100%;
+       }
+       
+       .search-field-wrapper {
+           width: 100%;
+           max-width: 1440px;
+           display: flex;
+           flex-direction: column;
+           justify-content: center;
+           align-items: center;
+           margin: 0 auto;
+       }
+       
+       .homepage-logo {
+           width: 200px;
+       }
