@@ -303,3 +303,22 @@ a.rating span {
     margin-left: 2em;
   font-weight: 600;
 }
+   /*Features @T*/
+
+.feature{
+    /*width: 28%;*/
+    padding: 3em 0.90em ;
+    text-align: center;
+   
+}
+
+
+/* h4 feature title*/
+
+.features-title{
+    text-align: center;
+    font-family: sans-serif;
+    color: #353748;
+    font-size: .90rem;
+  font-weight: 600;
+}
