@@ -93,14 +93,16 @@ Add section element which contain some div's, h4, and some images.
 
 Add styling layout for the section features and its inner contents.
 
-## 4.2 Update-features-section-styling
 
-__As as a webdeveloper and a member team, I want to set a well good enough layout and responsive for the Features section by fix some issues and make some updates.__
+## 4.1 Responsive Services and Features
+
+__As as a webdeveloper and member team, I want to set a well good enough layout and responsive for the Services & Features sections .__
+
 > assigned to Eltayeb
 
 ### Repo
 
-Create  a branch called Update-features-section-styling. to achieve this user story.
+This user story has been achieved through a branch called responsive-services-features.
 
 ### HTML
 
@@ -108,7 +110,8 @@ No HTML added .
 
 ### CSS
 
-Add background and width and border to features boxes
+Add media query for services and features sections.
+
 
 ## 5. Overview and info
 
