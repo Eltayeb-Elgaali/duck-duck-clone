@@ -120,20 +120,25 @@ __As a site visitor, I want to know more about the website and get more informat
 
 ### Repo
 
-what branch(es) did you work on?
+The branch that I am going to be working on is "Lower section"
+
 
 ### HTML
 
-what did you change in the HTML and why?
+As per the assignment, I will be attempting to clone the lower section of duck-duck-go website. the screenshot is added in the image folder for the sake of reffering back to it.
+The main html related changes that I am going to make are Three. first, I will have a container div that will encapsulate a brief 'privacy' content with H1 and P tags. Secondly, a button that links to chrome home browsing.
+
+Thirdly, The main image div of the page. 
 
 ### CSS
 
-what did you change in the CSS and why?
+based on the sections classes the styles will be applied accordingly.
 
 ## Finishing Touches
 
 __As a perfectionist team, we want everything perfect :)__
 > assigned to yared
+
 
 - Write final, complete README:
   - [makeareadme.com](https://www.makeareadme.com/)
