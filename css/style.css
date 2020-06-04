@@ -309,7 +309,10 @@ a.rating span {
     /*width: 28%;*/
     padding: 3em 0.90em ;
     text-align: center;
-   
+    background: #E37151;
+    border-radius: 25px;
+    width: 270px;
+    
 }
 
 
