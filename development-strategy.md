@@ -66,15 +66,15 @@ __As a site visitor, I need an overview about what services and technologies are
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been achieved through a branch called services-section.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add section element which contain some div's, one ordered list, some paragraph and anchors. 
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling layout for the section services and its inner contain.
 
 ## 4. Features
 
@@ -93,9 +93,11 @@ Add section element which contain some div's, h4, and some images.
 
 Add styling layout for the section features and its inner contents.
 
+
 ## 4.1 Responsive Services and Features
 
 __As as a webdeveloper and member team, I want to set a well good enough layout and responsive for the Services & Features sections .__
+
 > assigned to Eltayeb
 
 ### Repo
@@ -109,6 +111,7 @@ No HTML added .
 ### CSS
 
 Add media query for services and features sections.
+
 
 ## 5. Overview and info
 
