@@ -1,3 +1,5 @@
+
+   
 /*Global Styles*/
 
 * {
@@ -199,4 +201,105 @@ section.search-field {
 .search-field-wrapper form .search-button:hover {
     color: #fff;
     background-color: #66ad57;
+}
+    /***************************
+     Layout Services section  @T
+    ****************************/
+    /* Containers */
+
+.container {  
+   max-width: 60%;
+   margin: 0 auto; 
+} 
+
+.container-flex{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+   /*Services*/
+
+.services-title{
+    font-size: 25px;
+    line-height: 44px;
+    text-align: center;
+    padding-bottom: 5px;
+    color: #353748;
+    font-weight: 800;
+    font-family: sans-serif;
+}
+
+
+.services-subtitle{
+    color: #353748;
+    font-size: 17px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.container ol{
+    list-style: none;   
+    display: flex;  
+    justify-content: center;     
+     
+}
+
+.container ol li{
+    margin-right: 60px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 600;
+    color:#353748;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+  /* Icons */
+i.icon{
+    color: #678FFF;
+    margin-right: 0.5em;
+}
+
+.button{
+    background-color: #678FFF;
+    color: #FFFFFF;
+    border-radius: 10px;
+    padding: 1.1em 2.3em;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+  /* Rating stars */
+.link{
+    text-align: center;
+
+}
+
+.rating{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: #333333;
+    font-family: sans-serif;
+
+}
+.rating-stars{
+    font-size: .40rem; 
+    margin-top: 5em;
+}
+.rating-star{
+    padding: .40em;
+    font-size: .99em;
+}
+
+a.rating span {
+    font-size: .70rem; 
+    margin-top: 2em;
+    margin-left: 2em;
+  font-weight: 600;
 }
