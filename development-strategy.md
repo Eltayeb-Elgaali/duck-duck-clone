@@ -27,20 +27,20 @@ __A User can see our initial repository and empty site__
 
 ## 1. Title
 
-__As a site visitor, I want to know what the web page is called.__
+__As a site visitor, I want to find some way to navigate through the website and find some links to the social media.__
 > assigned to yildiray
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been developed through a branch called header-area.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add Navigation Buttons, navigation menu and some social media account links.
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling to the navigation menu and the social media links.
 
 ## 2. Search
 
@@ -49,15 +49,15 @@ __As a site visitor, I need a facility to be able to make some searches about sp
 
 ### Repo
 
-what branch(es) did you work on?
+This user story has been achieved through creating and working on a branch called search-field.
 
 ### HTML
 
-what did you change in the HTML and why?
+Add a search input text .
 
 ### CSS
 
-what did you change in the CSS and why?
+Add styling to the search input.
 
 ## 3. Services
 
@@ -93,7 +93,6 @@ Add section element which contain some div's, h4, and some images.
 
 Add styling layout for the section features and its inner contents.
 
-
 ## 4.1 Responsive Services and Features
 
 __As as a webdeveloper and member team, I want to set a well good enough layout and responsive for the Services & Features sections .__
@@ -112,6 +111,22 @@ No HTML added .
 
 Add media query for services and features sections.
 
+## 4.2 Update-features-section-styling
+
+__As as a webdeveloper and a member team, I want to set a well good enough layout and responsive for the Services & Features sections by fix some issues and updates.__
+> assigned to Eltayeb
+
+### Repo
+
+Create  a branch called Update-features-section-styling. to achieve this user story.
+
+### HTML
+
+No HTML added .
+
+### CSS
+
+Add background and width and border to features boxes
 
 ## 5. Overview and info
 
@@ -139,9 +154,9 @@ based on the sections classes the styles will be applied accordingly.
 __As a perfectionist team, we want everything perfect :)__
 > assigned to yared
 
+- Enhance the layout of the website and work on the responsive aspect. 
+- Validate code to check for any last mistakes.
+- Write final, complete README.
+- Update the Development Strategy.
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+
