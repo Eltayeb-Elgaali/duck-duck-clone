@@ -35,7 +35,7 @@ There are several ways to run this run this project. one of them is to install L
 ## Code Examples
 Examples of usage:
 
-            `code sample`
+`<section class="search-field">`
 
 ## Features
 List of features :
@@ -50,11 +50,10 @@ To-do list:
 * Improve the performance
 
 ## Status
-Project is: _under construction_
+Project is: _in the UAT phase_
 
 ## Inspiration
 Project inspired by  HYF
-
 
 ## Contact
 Created by [@yared](https://github.com/yaredyilma),[@yildiray](https://github.com/yildiraykoyuncu),[@eltayeb](https://github.com/Eltayeb-Elgaali) - feel free to contact us!
