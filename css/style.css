@@ -6,6 +6,7 @@
     
     body {
         font-family: "Montserrat", sans-serif;
+        background-color: #f7f7f7;
         width: 100%;
         margin: 0;
     }
@@ -348,7 +349,7 @@
         max-width: 100%;
     }
     
-    .button {
+    .section-btn {
         background-color: rgba(0, 0, 0, 0.5);
         margin: 20px 0;
     }
